@@ -1,6 +1,0 @@
-apiVersion: app.jdos.io/v1
-kind: AppGroup
-metadata:
-  name: DemoApp
-spec:
-    replicas: 2
